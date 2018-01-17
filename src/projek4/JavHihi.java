@@ -17,7 +17,7 @@ public class JavHihi {
         int bm,bi,sej;
         int purata;
         //input
-        System.out.print("Masukkan markah bagi matapelajaran Bahasa Melu: ");
+        System.out.print("Masukkan markah bagi matapelajaran Bahasa Melayu: ");
         bm=Anis.nextInt();
         System.out.print("Masukkan markah bagi matapelajaran Bahasa Inggeris: ");
         bi=Anis.nextInt();
